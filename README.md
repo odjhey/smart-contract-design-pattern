@@ -12,31 +12,31 @@ https://medium.com/layerx-jp/smart-contract-design-pattern-34a6401fe743
 デザインパターンはコントラクトの動作に合わせて5つのカテゴリーに17のパターンに分類することができます。分類方法に関してはこちらの文献を参考にしています。
 https://eprints.cs.univie.ac.at/5665/1/bare_conf.pdf
 
-1.Action and Controll
+### Action and Controll
 典型的な操作タスクのためのメカニズムを提供するグループ。
 - Pull Payment Pattern
 - State Machine Pattern
 - Commit and Reveal Pattern
 - Oracle Pattern
 
-2.Authorization
+### Authorization
 スマートコントラクトの関数へのアクセスを制御し、ユーザー権限の実装を単純化する認可制御を提供するグループ。
 - Ownership Pattern
 - Access Restriction Pattern
 
-3.Lifecycle
+### Lifecycle
 スマートコントラクトの作成と破壊を提供するグループ
 - Mortal Pattern
 - Automatic Deprecation Pattern
 
-4.Maintenance
+### Maintenance
 不可逆的で不変的性質をもつスマートコントラクトをメンテナンスするためのメカニズムを提供するグループ。
 - Data Segregation Pattern
 - Satellite Pattern
 - Contract Register Pattern
 - Content Relay Pattern
 
-5.Security
+### Security
 スマートコントラクトの信頼できる実行を保証するためのセキュリティ対策を提供するグループ。
 - Checks Effects Interaction Pattern
 - Emergency Stop Pattern
