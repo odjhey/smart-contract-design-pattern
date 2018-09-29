@@ -13,7 +13,7 @@ contract CommitReveal {
     event LogCommit(bytes32, address);
     event LogReveal(bytes32, address, string, string);
 
-    function constructor() public {
+    constructor() public {
     }
 
     function commit(bytes32 _commit) public returns (bool success) {
