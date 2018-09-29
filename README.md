@@ -22,8 +22,8 @@
 典型的な操作タスクのためのメカニズムを提供するグループ。
 - [Pull Payment Pattern](https://medium.com/@tomoyaishida/%E5%AE%89%E5%85%A8%E3%81%AA%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E5%85%A5%E9%96%80-3fc215a21eb3)
 - [State Machine Pattern](https://medium.com/@tomoyaishida/%E5%AE%89%E5%85%A8%E3%81%AA%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E5%85%A5%E9%96%80-3fc215a21eb3)
-- Commit and Reveal Pattern
-- Oracle Pattern
+- [Commit and Reveal Pattern](https://medium.com/@tomoyaishida/smart-contract-desing-pattern-2-commit-and-reveal-oracle-3a462806264)
+- [Oracle Pattern](https://medium.com/@tomoyaishida/smart-contract-desing-pattern-2-commit-and-reveal-oracle-3a462806264)
 
 ### Authorization
 スマートコントラクトの関数へのアクセスを制御し、ユーザー権限の実装を単純化する認可制御を提供するグループ。
