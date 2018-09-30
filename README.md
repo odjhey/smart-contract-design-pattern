@@ -16,7 +16,12 @@
 詳細はLayerXさんの[こちらの記事](https://medium.com/layerx-jp/smart-contract-design-pattern-34a6401fe743)で紹介されています。
 
 ## デザインパターンの紹介
-デザインパターンはコントラクトの動作に合わせて5つのカテゴリーに17のパターンに分類することができます。分類方法に関しては[こちらの文献](https://eprints.cs.univie.ac.at/5665/1/bare_conf.pdf)を参考にしています。
+デザインパターンはコントラクトの動作に合わせて5つのカテゴリーに17のパターンに分類することができます。分類方法に関してはこちらの文献を参考にしています。
+
+- [Design Patterns for Smart Contracts in the
+Ethereum Ecosystem](https://eprints.cs.univie.ac.at/5665/1/bare_conf.pdf)
+- [Smart Contracts: Security Patterns in the Ethereum
+Ecosystem and Solidity](https://eprints.cs.univie.ac.at/5433/7/sanerws18iwbosemain-id1-p-380f58e-35576-preprint.pdf)
 
 ### Action and Control
 典型的な操作タスクのためのメカニズムを提供するグループ。
