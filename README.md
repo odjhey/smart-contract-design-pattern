@@ -27,8 +27,8 @@
 
 ### Authorization
 スマートコントラクトの関数へのアクセスを制御し、ユーザー権限の実装を単純化する認可制御を提供するグループ。
-- Ownership Pattern
-- Access Restriction Pattern
+- [Ownership Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-3-authorization-patterns%E3%81%A8%E6%94%BB%E6%92%83%E4%BA%8B%E4%BE%8B-c3dbe74024f3)
+- [Access Restriction Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-3-authorization-patterns%E3%81%A8%E6%94%BB%E6%92%83%E4%BA%8B%E4%BE%8B-c3dbe74024f3)
 
 ### Lifecycle
 スマートコントラクトの作成と破壊を提供するグループ
