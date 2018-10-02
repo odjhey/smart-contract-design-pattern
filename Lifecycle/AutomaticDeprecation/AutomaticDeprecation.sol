@@ -3,7 +3,7 @@ pragma solidity ^0.4.24;
 contract AutoDeprecate {
     uint expires;
 
-    function AutoDeprecate(uint _days) public {
+    function constructor(uint _days) public {
         expires = now + _days * 1 days;
     }
 
