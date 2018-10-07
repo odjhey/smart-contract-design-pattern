@@ -32,8 +32,8 @@
 
 ### Lifecycle
 スマートコントラクトの作成と破壊を提供するグループ
-- Mortal Pattern
-- Automatic Deprecation Pattern
+- [Mortal Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-4-lifecycle-patterns-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E7%A0%B4%E5%A3%8A-4d39e4603596)
+- [Automatic Deprecation Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-4-lifecycle-patterns-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E7%A0%B4%E5%A3%8A-4d39e4603596)
 
 ### Maintenance
 不可逆的で不変的性質をもつスマートコントラクトをメンテナンスするためのメカニズムを提供するグループ。
