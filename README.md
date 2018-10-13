@@ -39,8 +39,8 @@
 不可逆的で不変的性質をもつスマートコントラクトをメンテナンスするためのメカニズムを提供するグループ。
 - [Data Segregation Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-5-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88vol-1-74a3a78e3485)
 - [Satellite Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-5-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88vol-1-74a3a78e3485)
-- Contract Register Pattern
-- Content Relay Pattern
+- [Contract Register Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-6-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88vol-2-90f3a6170364)
+- [Content Relay Pattern](https://medium.com/@tomoyaishida/smart-contract-design-pattern-6-%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88vol-2-90f3a6170364)
 
 ### Security
 スマートコントラクトの信頼できる実行を保証するためのセキュリティ対策を提供するグループ。
